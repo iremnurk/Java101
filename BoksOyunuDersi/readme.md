@@ -1,4 +1,4 @@
-#Boks Maçı
+# Boks Maçı
 Java Sınıflar ile boks maçını simüle eden programı yazıyoruz.
 
 Ödev
