@@ -1,6 +1,6 @@
 ## Java101> Mayın Tarlası Oyunu
 
-#Oyun Kuralları :
+# Oyun Kuralları :
 Oyun metin tabanlıdır.
 Çift boyutlu diziler üzerinden oynanmalı ve MineSweeper sınıfı içerisinde tasarlanmalı.
 Matris boyutunu yani satır ve sütun sayısını kullanıcı belirlemeli.
